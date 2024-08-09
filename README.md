@@ -1,5 +1,5 @@
 # Internship assignment template
-This is the template that can be used to create the internship assignment. It is based on a DDEV environment and the use of the Symfony framework.
+This is the template that can be used to create the assignment. It is based on a DDEV environment and the use of the Symfony framework.
 
 ## Usage
 This is a template for the application development for the internship assignment. This environment is set up with [DDEV]([https://ddev.readthedocs.io/en/stable/](https://ddev.com/get-started/)). Install this software to make use of this development environment.
