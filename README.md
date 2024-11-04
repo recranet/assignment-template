@@ -1,6 +1,9 @@
 # Internship assignment template
 This is the template that can be used to create the assignment. It is based on a DDEV environment and the use of the Symfony framework.
 
+## Windows
+If you use Windows you might want to install [XAMPP](https://www.apachefriends.org/) and use the [Symfony CLI](https://symfony.com/download) to set up your local development environment. 
+
 ## Usage
 This is a template for the application development for the internship assignment. This environment is set up with [DDEV]([https://ddev.readthedocs.io/en/stable/](https://ddev.com/get-started/)). Install this software to make use of this development environment.
 
